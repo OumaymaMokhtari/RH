@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Filters",
+    "\\Models",
+    "\\Services",
+    "\\ViewModels",
+    "\\wwwroot",
+    "\\wwwroot\\justificatifs"
+  ],
+  "SelectedNode": "\\Controllers\\DemandeCongeController.cs",
+  "PreviewInSolutionExplorer": false
+}

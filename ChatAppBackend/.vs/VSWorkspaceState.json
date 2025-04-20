@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Hubs",
+    "\\Models",
+    "\\ViewModels",
+    "\\wwwroot",
+    "\\wwwroot\\uploads"
+  ],
+  "SelectedNode": "\\Controllers\\MessageController.cs",
+  "PreviewInSolutionExplorer": false
+}

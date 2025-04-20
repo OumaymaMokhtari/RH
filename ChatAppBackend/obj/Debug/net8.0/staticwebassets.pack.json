@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oumayma\\source\\repos\\ChatAppBackend\\wwwroot\\uploads\\ChoixParcours.docx",
+      "PackagePath": "staticwebassets\\uploads\\ChoixParcours.docx"
+    },
+    {
+      "Id": "C:\\Users\\oumayma\\source\\repos\\ChatAppBackend\\wwwroot\\uploads\\Congé.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Congé.pdf"
+    },
+    {
+      "Id": "C:\\Users\\oumayma\\source\\repos\\ChatAppBackend\\wwwroot\\uploads\\Congé.png",
+      "PackagePath": "staticwebassets\\uploads\\Congé.png"
+    },
+    {
+      "Id": "C:\\Users\\oumayma\\source\\repos\\ChatAppBackend\\wwwroot\\uploads\\GestionRh.zip",
+      "PackagePath": "staticwebassets\\uploads\\GestionRh.zip"
+    },
+    {
+      "Id": "C:\\Users\\oumayma\\source\\repos\\ChatAppBackend\\wwwroot\\uploads\\LettreDeMotivation.pdf",
+      "PackagePath": "staticwebassets\\uploads\\LettreDeMotivation.pdf"
+    },
+    {
+      "Id": "C:\\Users\\oumayma\\source\\repos\\ChatAppBackend\\wwwroot\\uploads\\TP Injection de dépendences C & D.pdf",
+      "PackagePath": "staticwebassets\\uploads\\TP Injection de dépendences C & D.pdf"
+    },
+    {
+      "Id": "C:\\Users\\oumayma\\source\\repos\\ChatAppBackend\\wwwroot\\uploads\\choix_de_parcours_2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\choix_de_parcours_2.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatAppBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChatAppBackend.props",
+      "PackagePath": "build\\ChatAppBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatAppBackend.props",
+      "PackagePath": "buildMultiTargeting\\ChatAppBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatAppBackend.props",
+      "PackagePath": "buildTransitive\\ChatAppBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
