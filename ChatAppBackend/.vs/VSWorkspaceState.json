@@ -8,6 +8,6 @@
     "\\wwwroot",
     "\\wwwroot\\uploads"
   ],
-  "SelectedNode": "\\Controllers\\MessageController.cs",
+  "SelectedNode": "\\Hubs\\ChatHub.cs",
   "PreviewInSolutionExplorer": false
 }

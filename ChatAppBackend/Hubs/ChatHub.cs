@@ -78,4 +78,9 @@ public class ChatHub : Hub
             Console.WriteLine($"Erreur SignalR : {ex.Message}");
         }
     }
+    public async Task UserTyping(string senderId, string receiverId)
+    {
+        await Clients.All.SendAsync("UserTyping", senderId, receiverId);
+    }
+
 }
